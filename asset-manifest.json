@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react_up/static/css/main.a25e9bf5.css",
+    "main.js": "/react_up/static/js/main.049594ce.js",
+    "static/js/787.9e62fd9c.chunk.js": "/react_up/static/js/787.9e62fd9c.chunk.js",
+    "static/media/project1.png": "/react_up/static/media/project1.5d53ee85aeec3fd9f93f.png",
+    "static/media/project3.png": "/react_up/static/media/project3.d1c29a25218bca2cce81.png",
+    "static/media/project5.png": "/react_up/static/media/project5.1fcb8276c476b804d3a8.png",
+    "static/media/project6.png": "/react_up/static/media/project6.139ff07b94f68ecee985.png",
+    "static/media/eXpresso.jpg": "/react_up/static/media/eXpresso.1bdbe64443292dbb3c79.jpg",
+    "static/media/one-hundred-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.png": "/react_up/static/media/one-hundred-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.2250cb3aeb4c36a9070d.png",
+    "static/media/Eighty-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.png": "/react_up/static/media/Eighty-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.df845a2dfac21cfc465c.png",
+    "static/media/Sixty-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.png": "/react_up/static/media/Sixty-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.ed43c5442caf92a2f380.png",
+    "static/media/Seventy-percent.png": "/react_up/static/media/Seventy-percent.53b78891da94b876848d.png",
+    "static/media/Ninety-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.png": "/react_up/static/media/Ninety-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.d3d817fc58ab10ed93a1.png",
+    "static/media/Fifty-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.png": "/react_up/static/media/Fifty-percent-blue-grey-and-white-pie-chart-on-transparent-background-PNG.2096bb148cd757a31564.png",
+    "static/media/WZlogo.png": "/react_up/static/media/WZlogo.16c67d9a2fc10b2be3ac.png",
+    "static/media/Midnight City.jpg": "/react_up/static/media/Midnight City.68b12dac3086e4a59d7f.jpg",
+    "static/media/Notifications-icon-like,-speech-bubble.png": "/react_up/static/media/Notifications-icon-like,-speech-bubble.c6b27d21c1d5b01f2740.png",
+    "static/media/banner-bg.png": "/react_up/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/react_up/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project2.png": "/react_up/static/media/project2.fee5d8209ad5f7e1a6f7.png",
+    "static/media/project4.png": "/react_up/static/media/project4.cca919fefe9cfd53c4f2.png",
+    "static/media/Zinc.jpg": "/react_up/static/media/Zinc.b2688527298c98494604.jpg",
+    "static/media/nav-icon1.png": "/react_up/static/media/nav-icon1.27dcc545e62f7c9bb44f.png",
+    "static/media/revicons.eot": "/react_up/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react_up/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/nav-icon4.png": "/react_up/static/media/nav-icon4.d70cdef9e26819f7af5c.png",
+    "static/media/revicons.woff": "/react_up/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/react_up/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/react_up/index.html",
+    "static/media/nav-icon2.svg": "/react_up/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "static/media/index.js": "/react_up/static/media/index.f9ac19be921da9f14331.js",
+    "main.a25e9bf5.css.map": "/react_up/static/css/main.a25e9bf5.css.map",
+    "main.049594ce.js.map": "/react_up/static/js/main.049594ce.js.map",
+    "787.9e62fd9c.chunk.js.map": "/react_up/static/js/787.9e62fd9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25e9bf5.css",
+    "static/js/main.049594ce.js"
+  ]
+}
